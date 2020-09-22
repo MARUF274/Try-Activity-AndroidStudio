@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="result">result</string>
+    <string name="calculate">calculate</string>
+    <string name="height">height</string>
+    <string name="width">width</string>
+    <string name="length">length</string>
+    <string name="reset">reset</string>
+</resources>
